@@ -22,7 +22,7 @@ Explore the interactive dashboard on Tableau Public:
 | Attribute        | Description                |
 | ---------------- | -------------------------- |
 | Rows             | 395 students               |
-| Columns          | 30+ variables              |
+| Columns          | 16 variables              |
 | Unit of Analysis | 1 row represents 1 student |
 | Data Type        | Numerical and Categorical  |
 
