@@ -1,35 +1,49 @@
-# student-performance-
-📊 Student Performance Analysis Dashboard
+# 📊 Student Performance Analysis Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
-This project analyzes student academic performance and identifies key factors influencing final grades. The analysis explores how study behavior, attendance, family background, school support, and access to resources impact student outcomes.
+This project analyzes student academic performance to identify key factors influencing final grades. The analysis explores how study habits, attendance, family background, school support, and access to resources impact academic outcomes.
 
-The goal is to uncover actionable insights to help educational institutions identify at-risk students and design data-driven interventions.
+The objective is to generate actionable insights that can help educational institutions identify at-risk students and design targeted, data-driven interventions.
 
-🔗 Live Dashboard
-You can view the interactive dashboard here:
+---
 
-👉 Tableau Public Link:
-https://public.tableau.com/views/Minpro5/Analysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## 🔗 Live Dashboard
 
-📂 Dataset Information
+Explore the interactive dashboard on Tableau Public:
 
-Attribute	Description
-Rows	395 students
-Columns	30+ variables
-Unit of Analysis	1 row = 1 student
-Data Type	Numerical & Categorical
+👉 **View Dashboard:**
+[https://public.tableau.com/views/Minpro5/Analysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Minpro5/Analysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🔎 Key Insights
+---
 
-Higher absences are strongly associated with lower academic performance.
-Increased study time tends to correlate with higher grades.
-Parental education shows measurable influence on student outcomes.
-Limited internet access may increase academic risk.
+## 📂 Dataset Information
 
-🛠 Tools Used
+| Attribute        | Description                |
+| ---------------- | -------------------------- |
+| Rows             | 395 students               |
+| Columns          | 30+ variables              |
+| Unit of Analysis | 1 row represents 1 student |
+| Data Type        | Numerical and Categorical  |
 
-Tableau (Data Visualization & Dashboard Development)
-CSV Dataset
-Data Cleaning & Calculated Fields
+The dataset includes academic, demographic, social, and family-related variables used to analyze student performance patterns.
+
+---
+
+## 🔎 Key Insights
+
+* Higher absenteeism is strongly associated with lower academic performance.
+* Increased study time tends to correlate with higher final grades.
+* Parental education level shows a measurable influence on student outcomes.
+* Limited internet access may increase the risk of lower academic performance.
+
+---
+
+## 🛠 Tools Used
+
+* **Tableau** – Data visualization and dashboard development
+* **CSV Dataset** – Data source
+* **Calculated Fields & Data Preparation** – Data transformation and categorization
+
+---
+
