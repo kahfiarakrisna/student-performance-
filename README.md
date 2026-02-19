@@ -49,8 +49,8 @@ The dataset includes academic, demographic, social, and family-related variables
 
 ## 📸 Dashboard Preview
 
-![Executive Overview](images/executive.png)
-![Factor Analysis](images/analysis.png)
-![Risk Segmentation](images/risk.png)
+![Executive Overview](image/executive.png)
+![Factor Analysis](image/analysis.png)
+![Risk Segmentation](image/risk.png)
 
 
